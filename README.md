@@ -1,5 +1,5 @@
 - 👋 Hi i am Mayur 
-- 👀 I’m interested in playing cricket.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning  btech in cse.
 -    I have completed the c language .
 
